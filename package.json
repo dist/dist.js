@@ -1,0 +1,22 @@
+{
+  "name": "dist.js",
+  "description": "dist platform project for node.js",
+  "license": "MIT",
+  "dependencies": {
+    "highland": "^1.19.1"
+  },
+  "engines": {
+    "node": ">=0.10",
+    "npm": "1"
+  },
+  "contributors": [
+    {
+      "name": "Joseph Moore",
+      "email": "jwm@dist.org"
+    }
+  ],
+  "scripts": {
+    "test": "echo test"
+  },
+  "devDependencies": {}
+}
